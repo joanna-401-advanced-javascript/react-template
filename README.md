@@ -2,7 +2,7 @@
 
 ## Project Name
 
-### Author: Student/Group Name
+### Author: Joanna Arroyo
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
